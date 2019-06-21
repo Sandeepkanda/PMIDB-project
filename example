@@ -1,0 +1,21 @@
+\documentclass{article}
+\usepackage{graphicx}
+\begin{document}
+
+\title{Introduction to Latex}
+\author{Sandeep Kaur Kanda}
+\date{\today}
+
+\maketitle
+\begin{abstract}
+This is the Document for my Project Information Management database.
+\end{abstract}
+\section{Introduction}
+This is the architectural blueprint for my PIM DB
+\subsection{Javascript Coding Design}
+\subsubsection{JS objects used in this application}
+
+\section{Conclusion}
+I love latex!!!!!
+
+\end{document}
